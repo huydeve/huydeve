@@ -39,6 +39,14 @@ src="https://img.shields.io/github/followers/huydeve?logo=github&style=for-the-b
 <br>
 <div align=center>
   <a href="#" title="Huydeve">
+  <img
+        src="https://github-readme-stats.vercel.app/api?username=huydeve&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true"
+        alt="huydeve's GitHub stats"
+    />
+  </a>
+
+  
+  <a href="#" title="Huydeve">
    <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=huydeve&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
     />
