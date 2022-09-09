@@ -46,7 +46,6 @@ src="https://img.shields.io/github/followers/huydeve?logo=github&style=for-the-b
     />
   </a>
   
-  <br/>
   <a href="#" title="Huydeve">
    <img
         align="left"
