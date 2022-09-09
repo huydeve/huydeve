@@ -5,7 +5,13 @@ I'm a Web Developer
 
 * 🌍  I'm based in HCM
 * ✉️  You can contact me at [haihuy129@gmail.com](mailto:haihuy129@gmail.com)
+<style>
 
+table, th, td {
+   border: none;
+}
+
+</style>
 <a href="https://www.github.com/huydeve" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/huydeve?logo=github&style=for-the-badge&color=facc15&labelColor=22272e" /></a>
 
@@ -41,7 +47,7 @@ src="https://img.shields.io/github/followers/huydeve?logo=github&style=for-the-b
 
 
 
-<table style="border: none;">
+<table>
       <tr>
           <td valign="top">
             <a href="http://www.github.com/huydeve"><img src="https://github-readme-stats.vercel.app/api?username=huydeve&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="huydeve's GitHub stats" /></a>
