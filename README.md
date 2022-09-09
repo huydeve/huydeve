@@ -33,10 +33,10 @@ src="https://img.shields.io/github/followers/huydeve?logo=github&style=for-the-b
 
 <p align="left"> <a href="https://discord.com/users/huydeve" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/huydeve" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/huydeve" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<br>
 ### Badges
 
 <b>My GitHub Stats</b>
+
 <br>
 <div align=center>
   <a href="#" title="Huydeve">
