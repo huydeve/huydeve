@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/huydeve?logo=github&style=for-the-b
 ### Badges
 
 <b>My GitHub Stats</b>
-<div style="display: flex; width: 500px">
+<div style="display: flex;">
   <div style="">
     <a href="http://www.github.com/huydeve"
       ><img
