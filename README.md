@@ -41,17 +41,19 @@ src="https://img.shields.io/github/followers/huydeve?logo=github&style=for-the-b
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-
-
-
-
-
-     
- <a align="top" href="http://www.github.com/huydeve"><img src="https://github-readme-stats.vercel.app/api?username=huydeve&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="huydeve's GitHub stats" /></a>
- <a align="top" href="https://github.com/huydeve"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huydeve&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>My GitHub Stats</b> 
  
- <a  align="top" href="http://www.github.com/huydeve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=huydeve&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top">
+       <a href="http://www.github.com/huydeve"><img src="https://github-readme-stats.vercel.app/api?username=huydeve&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="huydeve's GitHub stats" /></a>
+        <a href="https://github.com/huydeve"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huydeve&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+     </td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top">
+       <a href="http://www.github.com/huydeve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=huydeve&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+     </td>
+  </tr>
+</table>
 
